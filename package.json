@@ -4,8 +4,8 @@
   "description": "Collection of Safe singleton deployments",
   "homepage": "https://github.com/haqq-network/safe-deployments/",
   "license": "MIT",
-  "main": "dist/index.js",
-  "typings": "dist/index.d.ts",
+  "main": "src/index.js",
+  "typings": "src/index.d.ts",
   "files": [
     "dist",
     "src",
